@@ -13,4 +13,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/royprem19/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
+## Array
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/royprem19/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/royprem19/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/royprem19/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/royprem19/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/royprem19/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/royprem19/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
