@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/royprem19/leetcode-solution/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/royprem19/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/royprem19/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0239-sliding-window-maximum](https://github.com/royprem19/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/royprem19/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/royprem19/leetcode-solution/tree/master/0283-move-zeroes) |
 ## Queue
 |  |
@@ -43,8 +45,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/royprem19/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/royprem19/leetcode-solution/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/royprem19/leetcode-solution/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/royprem19/leetcode-solution/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/royprem19/leetcode-solution/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/royprem19/leetcode-solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
