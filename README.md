@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/royprem19/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/royprem19/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/royprem19/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/royprem19/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/royprem19/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 ## Queue
 |  |
@@ -50,15 +51,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/royprem19/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/royprem19/leetcode-solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/royprem19/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/royprem19/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/royprem19/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/royprem19/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/royprem19/leetcode-solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/royprem19/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/royprem19/leetcode-solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/royprem19/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
