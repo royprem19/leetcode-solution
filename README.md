@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/royprem19/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/royprem19/leetcode-solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/royprem19/leetcode-solution/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/royprem19/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
